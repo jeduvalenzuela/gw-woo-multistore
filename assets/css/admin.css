@@ -1,0 +1,17 @@
+/* Admin Styles */
+#msw-stores-table input[type="text"],
+#msw-stores-table input[type="url"] {
+    width: 100%;
+}
+
+#msw-stores-table .small-text {
+    width: 80px;
+}
+
+.msw-store-row td {
+    vertical-align: middle;
+}
+
+#msw-add-store {
+    margin-top: 10px;
+}
